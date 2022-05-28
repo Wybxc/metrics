@@ -10,10 +10,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_timezone: Asia/Shanghai
           token: ${{ secrets.GHTOKEN }}
-          config_display: columns
+          
           repositories_affiliations: collaborator
+          config_timezone: Asia/Shanghai
+          
+          config_display: columns
+          config_padding: 10
           
           plugin_activity: yes
           plugin_calendar: yes
@@ -26,8 +29,6 @@ jobs:
           plugin_people: yes
           plugin_projects: yes
           plugin_reactions: yes
-          plugin_stargazers: yes
-          plugin_starlists: yes
           plugin_stars: yes
           plugin_topics: yes
           plugin_traffic: yes
