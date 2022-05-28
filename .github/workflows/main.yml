@@ -16,7 +16,11 @@ jobs:
           config_timezone: Asia/Shanghai
           
           config_display: large
-          config_padding: 10
+          extras_css: |
+            h2 {
+                padding-top: 20px;
+                border-top: 1px #AAA8 solid;
+            }
           
           plugin_activity: yes
           plugin_calendar: yes
@@ -24,7 +28,13 @@ jobs:
           plugin_followup: yes
           plugin_gists: yes
           plugin_habits: yes
+          
           plugin_languages: yes
+          plugin_languages_details: bytes-size, lines
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 0
+          
           plugin_lines: yes
           plugin_people: yes
           plugin_projects: yes
@@ -32,6 +42,7 @@ jobs:
           plugin_stars: yes
           plugin_topics: yes
           plugin_traffic: yes
+          
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           
