@@ -13,3 +13,24 @@ jobs:
           config_timezone: Asia/Shanghai
           token: ${{ secrets.GHTOKEN }}
           config_display: columns
+          repositories_affiliations: collaborator
+          
+          plugin_activity: yes
+          plugin_calendar: yes
+          plugin_discussions: yes
+          plugin_followup: yes
+          plugin_gists: yes
+          plugin_habits: yes
+          plugin_languages: yes
+          plugin_lines: yes
+          plugin_people: yes
+          plugin_projects: yes
+          plugin_reactions: yes
+          plugin_stargazers: yes
+          plugin_starlists: yes
+          plugin_stars: yes
+          plugin_topics: yes
+          plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          
