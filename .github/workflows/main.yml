@@ -55,7 +55,7 @@ jobs:
           config_timezone: Asia/Shanghai
           
           config_display: regular
-          filename: github-metrics-small
+          filename: github-metrics-small.svg
           extras_css: |
             h2 {
                 padding-top: 20px;
