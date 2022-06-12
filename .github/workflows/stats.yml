@@ -1,0 +1,28 @@
+name: Stats
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:  
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Wybxc/github-stats@main
+        id: stats
+        with:
+          token: ${{ secrets.GHTOKEN }}
+          
+          github-username: wybxc
+          
+          wakatime-username: wybxc
+          wakatime-compact-layout: true
+          wakatime-card-title: Most Used Languages
+          wakatime-max-languages-count: 8
+      
