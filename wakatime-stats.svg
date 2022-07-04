@@ -1,6 +1,6 @@
 <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="descId">
     <title id="descId">Most Used Languages</title>
-    <style>@keyframes rankAnimation{0%{stroke-dashoffset:251.32741228718345}}@keyframes scaleInAnimation{0%{transform:translate(-5px,5px) scale(0)}to{transform:translate(-5px,5px) scale(1)}}@keyframes fadeInAnimation{0%{opacity:0}to{opacity:1}}.stat{font:600 14px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#434d58}.bold{font:700 14px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif}.icon{fill:#4c71f2}.stagger{opacity:0;animation:fadeInAnimation .3s ease-in-out forwards}.rank-circle,.rank-circle-rim{stroke:#2f80ed33;fill:none;stroke-width:6}.rank-circle{stroke:#2f80edcc;stroke-dasharray:250;stroke-linecap:round;transform-origin:-10px 8px;transform:rotate(-90deg);stroke-dashoffset:56.384308275814696}.rank-text{font:800 24px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#434d58;transform:translate(-5px,5px)}.rank-circle{animation:rankAnimation 1s forwards ease-in-out}.rank-text{animation:scaleInAnimation .3s ease-in-out forwards}@supports (-moz-appearance:auto){.header{font-size:15.3px}}.lang-name{font:400 11px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#434d58}.header{font:600 18px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#2f80ed;animation:fadeInAnimation .8s ease-in-out forwards}@supports (-moz-appearance:auto){.header{font-size:15.3px}}</style>
+    <style>@keyframes rankAnimation{0%{stroke-dashoffset:251.32741228718345}}@keyframes scaleInAnimation{0%{transform:translate(-5px,5px) scale(0)}to{transform:translate(-5px,5px) scale(1)}}@keyframes fadeInAnimation{0%{opacity:0}to{opacity:1}}.stat{font:600 14px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#434d58}.bold{font:700 14px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif}.icon{fill:#4c71f2}.stagger{opacity:0;animation:fadeInAnimation .3s ease-in-out forwards}.rank-circle,.rank-circle-rim{stroke:#2f80ed33;fill:none;stroke-width:6}.rank-circle{stroke:#2f80edcc;stroke-dasharray:250;stroke-linecap:round;transform-origin:-10px 8px;transform:rotate(-90deg);stroke-dashoffset:56.17874136083042}.rank-text{font:800 24px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#434d58;transform:translate(-5px,5px)}.rank-circle{animation:rankAnimation 1s forwards ease-in-out}.rank-text{animation:scaleInAnimation .3s ease-in-out forwards}@supports (-moz-appearance:auto){.header{font-size:15.3px}}.lang-name{font:400 11px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#434d58}.header{font:600 18px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#2f80ed;animation:fadeInAnimation .8s ease-in-out forwards}@supports (-moz-appearance:auto){.header{font-size:15.3px}}</style>
     <rect x=".5" y=".5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#fffefe"/>
     <text class="header" transform="translate(25 35)">Most Used Languages</text>
     <svg y="60">
@@ -9,14 +9,14 @@
                 <rect x="25" width="445" height="8" fill="#fff" rx="5"/>
             </mask>
             <path mask="url(#rect-mask)" fill="#ddd" d="M25 0h445v8H25z"/>
-            <path mask="url(#rect-mask)" fill="#3572A5" d="M25 0h158.732v8H25z"/>
-            <path mask="url(#rect-mask)" fill="#f34b7d" d="M183.732 0h79.7v8h-79.7z"/>
-            <path mask="url(#rect-mask)" fill="#858585" d="M263.431 0h71.912v8h-71.912z"/>
-            <path mask="url(#rect-mask)" fill="#2b7489" d="M335.343 0h58.562v8h-58.562z"/>
-            <path mask="url(#rect-mask)" fill="#083fa1" d="M393.905 0h24.875v8h-24.875z"/>
-            <path mask="url(#rect-mask)" fill="#dea584" d="M418.78 0h20.47v8h-20.47z"/>
-            <path mask="url(#rect-mask)" fill="#3D6117" d="M439.25 0h20.292v8H439.25z"/>
-            <path mask="url(#rect-mask)" fill="#f1e05a" d="M459.542 0h10.457v8h-10.457z"/>
+            <path mask="url(#rect-mask)" fill="#3572A5" d="M25 0h158.242v8H25z"/>
+            <path mask="url(#rect-mask)" fill="#f34b7d" d="M183.242 0h79.477v8h-79.477z"/>
+            <path mask="url(#rect-mask)" fill="#858585" d="M262.719 0h71.912v8h-71.912z"/>
+            <path mask="url(#rect-mask)" fill="#2b7489" d="M334.631 0h58.384v8h-58.384z"/>
+            <path mask="url(#rect-mask)" fill="#083fa1" d="M393.015 0h25.587v8h-25.587z"/>
+            <path mask="url(#rect-mask)" fill="#dea584" d="M418.602 0h20.692v8h-20.692z"/>
+            <path mask="url(#rect-mask)" fill="#3D6117" d="M439.295 0h20.203v8h-20.203z"/>
+            <path mask="url(#rect-mask)" fill="#f1e05a" d="M459.498 0h10.457v8h-10.457z"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
                 <text x="15" y="10" class="lang-name">Python - 205 hrs 42 mins</text>
@@ -27,7 +27,7 @@
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 93 hrs 12 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 93 hrs 28 mins</text>
             </g>
             <g transform="translate(247.5 50)">
                 <circle cx="5" cy="6" r="5" fill="#2b7489"/>
@@ -35,11 +35,11 @@
             </g>
             <g transform="translate(25 75)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 32 hrs 15 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 33 hrs 16 mins</text>
             </g>
             <g transform="translate(247.5 75)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 26 hrs 32 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 26 hrs 53 mins</text>
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#3D6117"/>
