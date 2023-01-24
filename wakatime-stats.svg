@@ -10,20 +10,20 @@
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
             <path fill="#3572A5" d="M25 0h107.468v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M132.468 0h91.403v8h-91.403z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M223.87 0h82.592v8H223.87z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M306.462 0h49.706v8h-49.706z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M356.169 0h47.081v8h-47.081z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M403.25 0h27.012v8H403.25z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M430.261 0h21.894v8h-21.894z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M452.155 0h17.8v8h-17.8z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M132.468 0h91.448v8h-91.448z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M223.915 0h82.592v8h-82.592z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M306.507 0h49.706v8h-49.706z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M356.214 0h47.081v8h-47.081z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M403.295 0h27.012v8h-27.012z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M430.306 0H452.2v8h-21.894z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M452.2 0H470v8h-17.8z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
                 <text x="15" y="10" class="lang-name">Python - 245 hrs 22 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 208 hrs 40 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 208 hrs 51 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
