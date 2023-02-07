@@ -11,12 +11,12 @@
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
             <path fill="#3572A5" d="M25 0h107.067v8H25z" mask="url(#rect-mask)"/>
             <path fill="#858585" d="M132.067 0h90.424v8h-90.424z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M222.491 0h86.152v8h-86.152z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M308.643 0h48.994v8h-48.994z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M357.637 0h46.413v8h-46.413z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M404.051 0h26.611v8h-26.611z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M430.662 0h21.805v8h-21.805z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M452.467 0H470v8h-17.533z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M222.491 0h86.197v8h-86.197z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M308.688 0h48.994v8h-48.994z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M357.682 0h46.413v8h-46.413z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M404.095 0h26.611v8h-26.611z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M430.706 0h21.805v8h-21.805z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M452.511 0h17.533v8h-17.533z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
                 <text x="15" y="10" class="lang-name">Python - 248 hrs 7 mins</text>
@@ -27,7 +27,7 @@
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 199 hrs 39 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 199 hrs 43 mins</text>
             </g>
             <g transform="translate(247.5 50)">
                 <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
