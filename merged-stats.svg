@@ -23,7 +23,7 @@
                     <path fill-rule="evenodd" d="M1.643 3.143.427 1.927A.25.25 0 0 0 0 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 0 0 .177-.427L2.715 4.215a6.5 6.5 0 1 1-1.18 4.458.75.75 0 1 0-1.493.154 8.001 8.001 0 1 0 1.6-5.684zM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.75.75 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Total Commits:</text>
-                <text x="170" y="12.5" class="stat">684</text>
+                <text x="170" y="12.5" class="stat">670</text>
             </g>
             <g class="stagger" style="animation-delay: 750ms" transform="translate(25 50)">
                 <svg width="16" height="16" class="icon" viewBox="0 0 16 16">
@@ -60,21 +60,21 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M25 0h108.847v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M133.847 0h101.638v8H133.847z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M235.485 0h93.495v8h-93.495z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M328.98 0h41.429v8H328.98z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M370.409 0h40.05v8h-40.05z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M410.459 0h24.208v8h-24.208z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M434.667 0h20.692v8h-20.692z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M455.359 0h14.596v8h-14.596z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M25 0h108.625v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M133.625 0h101.549v8H133.625z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M235.174 0h93.316v8h-93.316z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M328.49 0h41.385v8H328.49z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M369.875 0h39.961v8h-39.961z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M409.836 0h24.163v8h-24.163z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M434 0h21.404v8H434z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M455.404 0H470v8h-14.596z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-                <text x="15" y="10" class="lang-name">Python - 324 hrs 10 mins</text>
+                <text x="15" y="10" class="lang-name">Python - 324 hrs 11 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 302 hrs 37 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 303 hrs 4 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
@@ -82,7 +82,7 @@
             </g>
             <g transform="translate(247.5 50)">
                 <circle cx="5" cy="6" r="5" fill="#2b7489"/>
-                <text x="15" y="10" class="lang-name">TypeScript - 123 hrs 26 mins</text>
+                <text x="15" y="10" class="lang-name">TypeScript - 123 hrs 28 mins</text>
             </g>
             <g transform="translate(25 75)">
                 <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
@@ -94,7 +94,7 @@
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 61 hrs 40 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 63 hrs 53 mins</text>
             </g>
             <g transform="translate(247.5 100)">
                 <circle cx="5" cy="6" r="5" fill="#555"/>
