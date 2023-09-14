@@ -9,17 +9,17 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M25 0h108.891v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M133.892 0h103.551v8H133.892z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M237.443 0h98.345v8h-98.345z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M335.788 0h39.071v8h-39.071z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M374.859 0h37.736v8h-37.736z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M412.595 0h22.784v8h-22.784z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M435.379 0h20.604v8h-20.604z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M455.983 0h13.973v8h-13.973z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M25 0h109.559v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M134.559 0h103.329v8H134.559z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M237.888 0h98.123v8h-98.123z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M336.01 0h38.982v8H336.01z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M374.993 0h37.647v8h-37.647z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M412.639 0h22.74v8h-22.74z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M435.379 0h20.692v8h-20.692z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M456.072 0H470v8h-13.928z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 344 hrs 17 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 347 hrs 13 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
@@ -43,11 +43,11 @@
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 65 hrs 11 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 65 hrs 32 mins</text>
             </g>
             <g transform="translate(247.5 100)">
                 <circle cx="5" cy="6" r="5" fill="#555"/>
-                <text x="15" y="10" class="lang-name">C - 44 hrs 10 mins</text>
+                <text x="15" y="10" class="lang-name">C - 44 hrs 11 mins</text>
             </g>
         </svg>
     </svg>
