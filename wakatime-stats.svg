@@ -9,17 +9,17 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M25 0h112.185v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M137.185 0h100.57v8h-100.57z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M237.754 0h100.08v8h-100.08z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M337.835 0h38.938v8h-38.938z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M376.772 0h36.98v8h-36.98z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M413.752 0h22.161v8h-22.161z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M435.913 0h20.247v8h-20.247z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M456.16 0h13.795v8H456.16z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M25 0h112.229v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M137.229 0h100.57v8h-100.57z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M237.799 0h100.08v8h-100.08z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M337.879 0h38.938v8h-38.938z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M376.817 0h36.98v8h-36.98z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M413.796 0h22.161v8h-22.161z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M435.957 0h20.247v8h-20.247z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M456.205 0H470v8h-13.795z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 365 hrs 8 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 365 hrs 15 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
