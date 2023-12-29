@@ -10,20 +10,20 @@
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
             <path fill="#858585" d="M25 0h114.232v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M139.232 0h104.486v8H139.232z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M243.718 0h100.748v8H243.718z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M344.466 0h35.689v8h-35.689z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M380.155 0h35.155v8h-35.155z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M415.31 0h20.292v8H415.31z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M435.601 0h18.824v8h-18.824z" mask="url(#rect-mask)"/>
-            <path fill="#4f87c4" d="M454.425 0h15.531v8h-15.531z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M139.232 0h104.53v8h-104.53z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M243.762 0H344.51v8H243.762z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M344.51 0h35.689v8H344.51z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M380.199 0h35.155v8h-35.155z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M415.354 0h20.292v8h-20.292z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M435.646 0h18.824v8h-18.824z" mask="url(#rect-mask)"/>
+            <path fill="#4f87c4" d="M454.469 0H470v8h-15.531z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
                 <text x="15" y="10" class="lang-name">Other - 405 hrs 34 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 370 hrs 59 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 371 hrs 1 min</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
