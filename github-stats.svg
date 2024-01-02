@@ -36,7 +36,7 @@
                     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm9 3a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm-.25-6.25a.75.75 0 0 0-1.5 0v3.5a.75.75 0 0 0 1.5 0v-3.5z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Total Issues:</text>
-                <text x="170" y="12.5" class="stat">15</text>
+                <text x="170" y="12.5" class="stat">16</text>
             </g>
             <g class="stagger" style="animation-delay: 1050ms" transform="translate(25 100)">
                 <svg width="16" height="16" class="icon" viewBox="0 0 16 16">
