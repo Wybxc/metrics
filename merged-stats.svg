@@ -23,7 +23,7 @@
                     <path fill-rule="evenodd" d="M1.643 3.143.427 1.927A.25.25 0 0 0 0 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 0 0 .177-.427L2.715 4.215a6.5 6.5 0 1 1-1.18 4.458.75.75 0 1 0-1.493.154 8.001 8.001 0 1 0 1.6-5.684zM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.75.75 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Total Commits:</text>
-                <text x="170" y="12.5" class="stat">351</text>
+                <text x="170" y="12.5" class="stat">353</text>
             </g>
             <g class="stagger" style="animation-delay: 750ms" transform="translate(25 50)">
                 <svg width="16" height="16" class="icon" viewBox="0 0 16 16">
@@ -44,7 +44,7 @@
                     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 0 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8zM5 12.25v3.25a.25.25 0 0 0 .4.2l1.45-1.087a.25.25 0 0 1 .3 0L8.6 15.7a.25.25 0 0 0 .4-.2v-3.25a.25.25 0 0 0-.25-.25h-3.5a.25.25 0 0 0-.25.25z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Contributed to:</text>
-                <text x="170" y="12.5" class="stat">52</text>
+                <text x="170" y="12.5" class="stat">53</text>
             </g>
         </svg>
     </svg>
@@ -60,21 +60,21 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M25 0h115.967v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M140.967 0h104.13v8h-104.13z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M245.097 0h100.347v8H245.097z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M345.445 0h35.422v8h-35.422z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M380.866 0h34.888v8h-34.888z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M415.755 0h20.159v8h-20.159z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M435.913 0h18.735v8h-18.735z" mask="url(#rect-mask)"/>
-            <path fill="#4f87c4" d="M454.648 0h15.397v8h-15.397z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M25 0h115.878v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M140.878 0h104.308v8H140.878z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M245.186 0H345.4v8H245.186z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M345.4 0h35.377v8H345.4z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M380.777 0h34.843v8h-34.843z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M415.621 0h20.114v8h-20.114z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M435.735 0h18.868v8h-18.868z" mask="url(#rect-mask)"/>
+            <path fill="#4f87c4" d="M454.603 0H470v8h-15.397z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 415 hrs 0 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 415 hrs 1 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 372 hrs 30 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 373 hrs 43 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
@@ -94,7 +94,7 @@
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 66 hrs 59 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 67 hrs 34 mins</text>
             </g>
             <g transform="translate(247.5 100)">
                 <circle cx="5" cy="6" r="5" fill="#4f87c4"/>
