@@ -60,17 +60,17 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M25 0h113.786v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M138.786 0h112.808v8H138.786z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M251.594 0h97.054v8h-97.054z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M348.648 0h34.799v8h-34.799z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M383.447 0h33.731v8h-33.731z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M417.178 0h19.491v8h-19.491z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M436.669 0h18.378v8h-18.378z" mask="url(#rect-mask)"/>
-            <path fill="#4f87c4" d="M455.048 0H470v8h-14.952z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M25 0h113.875v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M138.875 0h112.763v8H138.875z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M251.639 0h97.054v8h-97.054z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M348.693 0h34.799v8h-34.799z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M383.492 0h33.731v8h-33.731z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M417.223 0h19.491v8h-19.491z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M436.714 0h18.378v8h-18.378z" mask="url(#rect-mask)"/>
+            <path fill="#4f87c4" d="M455.093 0h14.952v8h-14.952z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 420 hrs 59 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 421 hrs 25 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
