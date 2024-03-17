@@ -9,9 +9,9 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M25 0h119.794v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M144.794 0h113.92v8h-113.92z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M258.714 0h93.85v8h-93.85z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M25 0h119.883v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M144.883 0h113.875v8H144.883z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M258.759 0h93.806v8h-93.806z" mask="url(#rect-mask)"/>
             <path fill="#2b7489" d="M352.565 0h33.642v8h-33.642z" mask="url(#rect-mask)"/>
             <path fill="#f34b7d" d="M386.207 0h32.529v8h-32.529z" mask="url(#rect-mask)"/>
             <path fill="#3D6117" d="M418.736 0h18.779v8h-18.779z" mask="url(#rect-mask)"/>
@@ -19,11 +19,11 @@
             <path fill="#4f87c4" d="M455.538 0h14.418v8h-14.418z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 459 hrs 28 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 460 hrs</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 436 hrs 50 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 436 hrs 52 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
@@ -43,7 +43,7 @@
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 69 hrs 7 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 69 hrs 8 mins</text>
             </g>
             <g transform="translate(247.5 100)">
                 <circle cx="5" cy="6" r="5" fill="#4f87c4"/>
