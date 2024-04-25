@@ -9,21 +9,21 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M25 0h128.16v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M153.16 0h114.41v8H153.16z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M267.57 0h90.112v8H267.57z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M357.682 0h32.129v8h-32.129z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M389.811 0h31.061v8h-31.061z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M25 0h128.427v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M153.427 0h114.321v8H153.427z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M267.748 0h90.023v8h-90.023z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M357.771 0h32.084v8h-32.084z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M389.856 0h31.017v8h-31.017z" mask="url(#rect-mask)"/>
             <path fill="#3D6117" d="M420.872 0h17.934v8h-17.934z" mask="url(#rect-mask)"/>
             <path fill="#083fa1" d="M438.806 0h17.399v8h-17.399z" mask="url(#rect-mask)"/>
-            <path fill="#4f87c4" d="M456.205 0H470v8h-13.795z" mask="url(#rect-mask)"/>
+            <path fill="#4f87c4" d="M456.205 0h13.75v8h-13.75z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 514 hrs 55 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 516 hrs 40 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 459 hrs 48 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 459 hrs 49 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
