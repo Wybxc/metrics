@@ -23,14 +23,14 @@
                     <path fill-rule="evenodd" d="M1.643 3.143.427 1.927A.25.25 0 0 0 0 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 0 0 .177-.427L2.715 4.215a6.5 6.5 0 1 1-1.18 4.458.75.75 0 1 0-1.493.154 8.001 8.001 0 1 0 1.6-5.684zM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.75.75 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Total Commits:</text>
-                <text x="170" y="12.5" class="stat">407</text>
+                <text x="170" y="12.5" class="stat">403</text>
             </g>
             <g class="stagger" style="animation-delay: 750ms" transform="translate(25 50)">
                 <svg width="16" height="16" class="icon" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M7.177 3.073 9.573.677A.25.25 0 0 1 10 .854v4.792a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354zM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25zM11 2.5h-1V4h1a1 1 0 0 1 1 1v5.628a2.251 2.251 0 1 0 1.5 0V5A2.5 2.5 0 0 0 11 2.5zm1 10.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0zM3.75 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Total PRs:</text>
-                <text x="170" y="12.5" class="stat">57</text>
+                <text x="170" y="12.5" class="stat">55</text>
             </g>
             <g class="stagger" style="animation-delay: 900ms" transform="translate(25 75)">
                 <svg width="16" height="16" class="icon" viewBox="0 0 16 16">
@@ -44,7 +44,7 @@
                     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 0 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8zM5 12.25v3.25a.25.25 0 0 0 .4.2l1.45-1.087a.25.25 0 0 1 .3 0L8.6 15.7a.25.25 0 0 0 .4-.2v-3.25a.25.25 0 0 0-.25-.25h-3.5a.25.25 0 0 0-.25.25z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Contributed to:</text>
-                <text x="170" y="12.5" class="stat">45</text>
+                <text x="170" y="12.5" class="stat">44</text>
             </g>
         </svg>
     </svg>
@@ -60,25 +60,25 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M25 0h127.804v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M152.804 0h117.213v8H152.804z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M270.017 0h88.911v8h-88.911z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M358.928 0h31.55v8h-31.55z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M390.478 0h30.527v8h-30.527z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M421.005 0h17.666v8h-17.666z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M438.672 0h17.622v8h-17.622z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M456.294 0h13.661v8h-13.661z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M25 0h127.849v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M152.849 0h117.48v8h-117.48z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M270.329 0h88.867v8h-88.867z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M359.195 0h31.506v8h-31.506z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M390.701 0h30.438v8h-30.438z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M421.139 0h17.666v8h-17.666z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M438.805 0h17.578v8h-17.578z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M456.383 0h13.661v8h-13.661z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 522 hrs 37 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 524 hrs 16 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 479 hrs 22 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 481 hrs 38 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-                <text x="15" y="10" class="lang-name">Python - 363 hrs 35 mins</text>
+                <text x="15" y="10" class="lang-name">Python - 364 hrs 18 mins</text>
             </g>
             <g transform="translate(247.5 50)">
                 <circle cx="5" cy="6" r="5" fill="#2b7489"/>
@@ -90,7 +90,7 @@
             </g>
             <g transform="translate(247.5 75)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 72 hrs 19 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 72 hrs 24 mins</text>
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#3D6117"/>
@@ -98,7 +98,7 @@
             </g>
             <g transform="translate(247.5 100)">
                 <circle cx="5" cy="6" r="5" fill="#555"/>
-                <text x="15" y="10" class="lang-name">C - 55 hrs 49 mins</text>
+                <text x="15" y="10" class="lang-name">C - 55 hrs 59 mins</text>
             </g>
         </svg>
     </svg>
