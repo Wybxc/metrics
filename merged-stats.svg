@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="descId" width="495" height="390" viewBox="0 0 495 390" fill="none">
   <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" fill="none" aria-labelledby="descId" viewBox="0 0 495 195" y="0">
-    <title id="descId">&#24536;&#24551;&#21271;&#33841;&#33609;'s GitHub Stats</title>
+    <title id="descId">Zhuang Jiayi's GitHub Stats</title>
     <style>@keyframes rankAnimation{0%{stroke-dashoffset:251.32741228718345}}@keyframes scaleInAnimation{0%{transform:translate(-5px,5px) scale(0)}to{transform:translate(-5px,5px) scale(1)}}@keyframes fadeInAnimation{0%{opacity:0}to{opacity:1}}.stat{font:600 14px"Segoe UI",Ubuntu,Sans-Serif;fill:#434d58}.bold{font:700 14px"Segoe UI",Ubuntu,Sans-Serif}.icon{fill:#4c71f2}.stagger{opacity:0;animation:fadeInAnimation .3s ease-in-out forwards}.rank-circle,.rank-circle-rim{stroke:#2f80ed33;fill:none;stroke-width:6}.rank-circle{stroke:#2f80edcc;stroke-dasharray:250;stroke-linecap:round;transform-origin:-10px 8px;transform:rotate(-90deg);stroke-dashoffset:113.09733552923255}.rank-text{font:800 24px"Segoe UI",Ubuntu,Sans-Serif;fill:#434d58;transform:translate(-5px,5px)}.rank-circle{animation:rankAnimation 1s forwards ease-in-out}.rank-text{animation:scaleInAnimation .3s ease-in-out forwards}@supports (-moz-appearance:auto){.header{font-size:15.3px}}.lang-name{font:400 11px"Segoe UI",Ubuntu,Sans-Serif;fill:#434d58}.header{font:600 18px"Segoe UI",Ubuntu,Sans-Serif;fill:#2f80ed;animation:fadeInAnimation .8s ease-in-out forwards}@supports (-moz-appearance:auto){.header{font-size:15.3px}}</style>
     <rect width="494" height="99%" x=".5" y=".5" fill="#fffefe" stroke="#e4e2e2" rx="4.5"/>
-    <text class="header" transform="translate(25 35)">&#24536;&#24551;&#21271;&#33841;&#33609;'s GitHub Stats</text>
+    <text class="header" transform="translate(25 35)">Zhuang Jiayi's GitHub Stats</text>
     <svg y="60">
         <g transform="translate(390 40)">
             <circle cx="-10" cy="8" r="40" class="rank-circle-rim"/>
@@ -23,7 +23,7 @@
                     <path fill-rule="evenodd" d="M1.643 3.143.427 1.927A.25.25 0 0 0 0 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 0 0 .177-.427L2.715 4.215a6.5 6.5 0 1 1-1.18 4.458.75.75 0 1 0-1.493.154 8.001 8.001 0 1 0 1.6-5.684zM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.75.75 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4z"/>
                 </svg>
                 <text x="25" y="12.5" class="stat bold">Total Commits:</text>
-                <text x="170" y="12.5" class="stat">415</text>
+                <text x="170" y="12.5" class="stat">420</text>
             </g>
             <g class="stagger" style="animation-delay: 750ms" transform="translate(25 50)">
                 <svg width="16" height="16" class="icon" viewBox="0 0 16 16">
@@ -60,21 +60,21 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M25 0h132.966v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M157.966 0h116.679v8H157.966z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M274.645 0h86.82v8h-86.82z" mask="url(#rect-mask)"/>
-            <path fill="#2b7489" d="M361.464 0h30.66v8h-30.66z" mask="url(#rect-mask)"/>
-            <path fill="#f34b7d" d="M392.125 0h29.637v8h-29.637z" mask="url(#rect-mask)"/>
-            <path fill="#083fa1" d="M421.762 0h17.844v8h-17.844z" mask="url(#rect-mask)"/>
-            <path fill="#3D6117" d="M439.606 0h17.133v8h-17.133z" mask="url(#rect-mask)"/>
-            <path fill="#555" d="M456.739 0h13.306v8h-13.306z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M25 0h134.123v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M159.123 0h116.234v8H159.123z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M275.357 0h86.508v8h-86.508z" mask="url(#rect-mask)"/>
+            <path fill="#2b7489" d="M361.865 0h30.527v8h-30.527z" mask="url(#rect-mask)"/>
+            <path fill="#f34b7d" d="M392.392 0h29.503v8h-29.503z" mask="url(#rect-mask)"/>
+            <path fill="#083fa1" d="M421.896 0h17.756v8h-17.756z" mask="url(#rect-mask)"/>
+            <path fill="#3D6117" d="M439.651 0h17.044v8h-17.044z" mask="url(#rect-mask)"/>
+            <path fill="#555" d="M456.695 0h13.261v8h-13.261z" mask="url(#rect-mask)"/>
             <g transform="translate(25 25)">
                 <circle cx="5" cy="6" r="5" fill="#dea584"/>
-                <text x="15" y="10" class="lang-name">Rust - 560 hrs 9 mins</text>
+                <text x="15" y="10" class="lang-name">Rust - 567 hrs 2 mins</text>
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 491 hrs 27 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 491 hrs 28 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
@@ -90,7 +90,7 @@
             </g>
             <g transform="translate(247.5 75)">
                 <circle cx="5" cy="6" r="5" fill="#083fa1"/>
-                <text x="15" y="10" class="lang-name">Markdown - 75 hrs 7 mins</text>
+                <text x="15" y="10" class="lang-name">Markdown - 75 hrs 8 mins</text>
             </g>
             <g transform="translate(25 100)">
                 <circle cx="5" cy="6" r="5" fill="#3D6117"/>
