@@ -9,9 +9,9 @@
                 <rect width="445" height="8" x="25" fill="#fff" rx="5"/>
             </mask>
             <path fill="#ddd" d="M25 0h445v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#dea584" d="M25 0h135.013v8H25z" mask="url(#rect-mask)"/>
-            <path fill="#858585" d="M160.013 0h117.391v8H160.013z" mask="url(#rect-mask)"/>
-            <path fill="#3572A5" d="M277.404 0h84.328v8h-84.328z" mask="url(#rect-mask)"/>
+            <path fill="#dea584" d="M25 0h134.968v8H25z" mask="url(#rect-mask)"/>
+            <path fill="#858585" d="M159.968 0h117.48v8h-117.48z" mask="url(#rect-mask)"/>
+            <path fill="#3572A5" d="M277.448 0h84.283v8h-84.283z" mask="url(#rect-mask)"/>
             <path fill="#2b7489" d="M361.731 0h30.038v8h-30.038z" mask="url(#rect-mask)"/>
             <path fill="#f34b7d" d="M391.769 0h28.747v8h-28.747z" mask="url(#rect-mask)"/>
             <path fill="#083fa1" d="M420.516 0h19.847v8h-19.847z" mask="url(#rect-mask)"/>
@@ -23,7 +23,7 @@
             </g>
             <g transform="translate(247.5 25)">
                 <circle cx="5" cy="6" r="5" fill="#858585"/>
-                <text x="15" y="10" class="lang-name">Other - 509 hrs 28 mins</text>
+                <text x="15" y="10" class="lang-name">Other - 509 hrs 50 mins</text>
             </g>
             <g transform="translate(25 50)">
                 <circle cx="5" cy="6" r="5" fill="#3572A5"/>
