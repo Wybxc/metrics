@@ -2,9 +2,9 @@ name: Stats
 
 on:
   # Schedule daily updates
-  schedule: [{ cron: '0 0 * * *' }]
+  # schedule: [{ cron: '0 0 * * *' }]
   # (optional) Run workflow when pushing on master/main
-  push: { branches: ['master', 'main'] }
+  # push: { branches: ['master', 'main'] }
   workflow_dispatch:
 
 jobs:
