@@ -79,12 +79,13 @@ jobs:
           
           plugin_lines: yes
           plugin_people: yes
-          plugin_projects: yes
+          plugin_projects: no
           plugin_reactions: yes
           plugin_stars: yes
           plugin_topics: yes
           plugin_traffic: yes
           
           plugin_wakatime: yes
+          plugin_wakatime_url: https://waka.wybxc.cc/compat/wakatime/v1
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           
